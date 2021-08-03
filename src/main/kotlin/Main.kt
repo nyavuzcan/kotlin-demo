@@ -6,6 +6,8 @@ object Main {
     fun main(arg: Array<String>){
         println(getName())
         getLastName()
+
+        var Pt = ProfileT("tarik")
     }
 
     fun getName() : String {
